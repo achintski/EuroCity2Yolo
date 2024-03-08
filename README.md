@@ -1,5 +1,5 @@
 # EuroCity2Yolo
-## Convert EuroCity Person annotated format data to YOLO format data. 
+## Convert EuroCity Person annotated format data to YOLO format data
 ## 将EuroCity Person标注格式的数据转换成YOLO格式的数据
 
 之前入坑目标检测，需要使用夜间图像，申请到的EuroCity Person数据集又不是Yolo格式。
